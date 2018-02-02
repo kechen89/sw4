@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------
 # Usage:
 # make sw4 [debug=yes/no] [prec=single/double] [fortran=yes/no] [openmp=yes/no]
-#   Default is: debug=no prec=double fortran=yes openmp=yes
+#   Default is: debug=no prec=double fortran=no openmp=yes
 # This Makefile asumes that the following environmental variables have been assigned:
 # etree = [yes/no]
 # proj = [yes/no]
